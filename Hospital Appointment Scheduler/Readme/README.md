@@ -1,5 +1,9 @@
+**Name** Kameshwar Prasad Sahu 
+**Class/Section** M**
+**ERF** RU-26-01697
+**PS No.** 71
 # Hospital Appointment Scheduler
-**PS No. 81 – Rungta International Skills University**
+**PS No. 71 – Rungta International Skills University**
 
 ## About the Project
 
